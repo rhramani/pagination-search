@@ -1,0 +1,16 @@
+table, th, td{
+    border: 2px solid black;
+    margin: 2px;
+}
+
+table{
+    border-collapse: collapse;
+}
+td{
+    padding: 5px;
+}
+
+#search{
+    margin: 5px;
+    padding: 5px;
+}
